@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Gestion_de_peronas_y_agendas</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Estebansg\OneDrive\Documentos\Desktop\C#\Examen 1\Gestion de personas y agenda.cs" Link="Gestion de personas y agenda.cs" />
+  </ItemGroup>
+
+</Project>
